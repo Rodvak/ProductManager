@@ -1,8 +1,8 @@
 
 # MYSPEND
 
-This project allows the user to keep track of expenses, it is a Full CRUD app. 
-You can create, save, edit and delete expenses.
+<p>This project allows the user to keep track of expenses, it is a Full CRUD app.</p>
+<p>You can create, save, edit and delete expenses.</p>
 
 ## Features
 
